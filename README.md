@@ -1,6 +1,8 @@
 # starwars-ng
 This project was developed using Angular2 framework, TypeScript. Deployment wise, it was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
+Demo page can be [viewed here](https://tendouji.github.io/starwars-ng/).
+
 
 ## Development
 Main structure of the files includes; 
