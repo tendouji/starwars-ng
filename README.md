@@ -14,4 +14,4 @@ Editing crew records and sorting features are located within **ship-panel.compon
 
 ## Further 
 
-For the other 2 jQuery + SASS and javascript repo README, [check here](https://github.com/tendouji/starwars-api-v2/blob/master/README.md).
+For the other 2 **jQuery + SASS** and **javascript** repo README, [check here](https://github.com/tendouji/starwars-api-v2/blob/master/README.md).
